@@ -19,6 +19,7 @@ class ShopDataReader:
 
     def select_items(self, item='Samsung Galaxy S8 (64GB)'):
         df = self.df.loc[self.df['product'] == item]
+        df = df.drop_duplicates('shop')
         return df
 
     def plot_cheapest_shops(self, df, n=10):
@@ -56,6 +57,7 @@ class ShopDataReader:
 
 if __name__ == "__main__":
     sh = ShopDataReader()
-    print(sh.aggregate())
+    sh.aggregate()
+    print(sh.select_items())
     sh.get_price_range(sh.select_items())
     sh.plot_cheapest_shops(sh.select_items())

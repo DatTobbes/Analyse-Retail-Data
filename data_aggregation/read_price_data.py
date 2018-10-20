@@ -10,7 +10,6 @@ class HistoricalPriceDataReader:
 
     def get_historical_data_for_device(self, item="Apple iPhone 7 Plus (32GB)"):
 
-
         df  = self.df.loc[self.df['name']==item].transpose()
         df.columns=['prices']
         df = df.reset_index(drop=True)
@@ -31,8 +30,6 @@ class HistoricalPriceDataReader:
         df = df.transpose()
         df.columns = ['min_price', 'max_price', 'availability' ]
         return df
-
-
 
     def plot(self, df):
         p = figure()

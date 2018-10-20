@@ -7,7 +7,8 @@ class DataFrameReader:
         hist_data = pd.read_csv('../data/device_hist_price.csv', sep='\t')
         recomm_data= pd.read_csv('../data/product_recommendation.csv', sep=';', encoding='ansi')
         shop_data = pd.read_csv('../data/productvariation.csv', sep=';', encoding='ansi')
-
+        shop_data = self.aggregate(['product', 'price', 'shop'])
+        shop_data = self
 
         df = pd.merge(hist_data, recomm_data, how='inner', on=None, left_on='name', right_on='product name',
                  left_index=False, right_index=False, sort=True,
@@ -49,7 +50,6 @@ class DataFrameReader:
         people_rating = df.iloc[:, -8].values
         return people_rating[0]
 
-
     def create_device_data(self,  item='Apple iPhone 7 Plus (32GB)'):
         min_prices = self.get_min_prices(self.df, item)
         max_prices = self.get_max_prices(self.df, item)
@@ -68,3 +68,11 @@ class DataFrameReader:
             'people_rating': people_rating.tolist()
         }
         return device_dict
+
+    def aggregate(self, columns=['product', 'price', 'shop']):
+        return pd.DataFrame(data=self.df[columns])
+
+    def select_items(self, item='Apple iPhone 7 Plus (32GB)'):
+        df = self.df.loc[self.df['product'] == item]
+        df = df.drop_duplicates('shop')
+        return df
