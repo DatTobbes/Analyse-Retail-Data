@@ -6,7 +6,7 @@ class DataFrameReader:
     def __init__(self):
         hist_data = pd.read_csv('../data/device_hist_price.csv', sep='\t')
         recomm_data= pd.read_csv('../data/product_recommendation.csv', sep=';', encoding='ansi')
-        shop_data = pd.read_csv('../data/productvariation.csv', sep=';', encoding='ansi')
+        self.shop_data = pd.read_csv('../data/productvariation.csv', sep=';', encoding='ansi')
         self.shop_data = self.aggregate(['product', 'price', 'shop'])
 
 
@@ -73,6 +73,6 @@ class DataFrameReader:
         return pd.DataFrame(data=self.shop_data[columns])
 
     def select_items(self, item='Apple iPhone 7 Plus (32GB)'):
-        df = self.shop_data.loc[self.df['product'] == item]
+        df = self.shop_data.loc[self.shop_data['product'] == item]
         df = df.drop_duplicates('shop')
         return df
