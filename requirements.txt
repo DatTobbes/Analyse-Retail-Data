@@ -1,0 +1,12 @@
+#
+####### requirements.txt for  brick-planner project#######
+#
+###### Requirements without Version Specifiers ######
+numpy
+matplotlib
+pandas
+flask
+numpy
+requests
+bokeh
+#
