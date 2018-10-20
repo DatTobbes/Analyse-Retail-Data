@@ -18,7 +18,7 @@ def get_all_device_data():
 
         result = flask.jsonify(device_data)
 
-    return flask.jsonify(result)
+    return result
 
 if __name__ == "__main__":
     print("")

@@ -60,11 +60,11 @@ class DataFrameReader:
         people_rating = self.get_people_rating(self.df, item)
 
         device_dict = {
-            'min_prices': min_prices,
-            'max_prices': max_prices,
-            'availability': availability,
-            'recommendations': recommendations,
+            'min_prices': min_prices.tolist(),
+            'max_prices': max_prices.tolist(),
+            'availability': availability.tolist(),
+            'recommendations': recommendations.tolist(),
             'stars': stars,
-            'people_rating': people_rating
+            'people_rating': people_rating.tolist()
         }
         return device_dict
