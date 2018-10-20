@@ -1,0 +1,744 @@
+"retailer_product";"retailer_price"
+"Alcatel 1054D";21.3
+"Alcatel OneTouch Pixi 4 (6) 3G (8GB)";99.2
+"Archos 50 Titanium 4G (8GB)";59
+"Sony Xperia X (32GB)";276.52
+"Wiko Sunny 2 (8GB)";59.99
+"Nokia 8 Dual (4GB/64GB)";391.39
+"Apple iPhone 6s Plus (16GB)";501
+"MaxCom MS553 FS (16GB)";139.99
+"Hisense C30 (32GB)";249.99
+"LG Q6 Dual";188.8
+"TP-LINK Neffos X1 (32GB)";137.8
+"Mediacom PhonePad Duo X532U 4G Ultra (16GB)";229
+"Lenovo Moto C Plus Dual (1GB/16GB)";86.8
+"Huawei P9 Lite Dual (3GB/16GB)";180
+"Asus ZenFone 4 Selfie Pro (ZD552KL)";325
+"Asus ZenFone 2 (Z3580/4GB/32GB/Dual) (ZE551ML)";299
+"Xiaomi Mi 5s (64GB)";265.86
+"CAT B25 Dual";49.45
+"MaxCom MM823";64.99
+"Energy Sistem Phone Max 4000 (8GB)";109.9
+"Go Clever Quantum 5 500 Rugged (16GB)";198
+"HTC Desire 628 Dual (16GB)";172.36
+"TP-LINK Neffos C5A (8GB)";61.44
+"Doogee X20L (16GB)";98.8
+"Huawei GR3 (16GB)";172.63
+"Blu Grand Max (8GB)";95.04
+"Xiaomi Mi 5s Plus (128GB)";373.66
+"Cubot R9 (16GB)";74.94
+"LG G5 (32GB)";388
+"Energy Sistem Phone Max 4G (16GB)";119.9
+"Samsung Galaxy J5 (2017)";156.91
+"ZTE Blade V8 (64GB)";302.56
+"Samsung Galaxy J7 Prime Dual (32GB)";216.48
+"Cubot Echo (16GB)";75
+"HTC U Play (64GB)";360
+"Ulefone Armor 2 (64GB)";286
+"Huawei Mate 9 Porsche Design";999
+"Coolpad Cool Changer S1 (64GB)";374
+"Asus ZenFone 4 Max (32GB) (ZC554KL)";298.9
+"Ulefone U007 Pro (8GB)";88.49
+"Lenovo Moto G4 Play Dual (16GB)";104.4
+"Nokia 8 (4GB/64GB)";391.35
+"MLS Fab 4G (8GB)";79
+"Huawei Nova 2";264
+"Sony Xperia XA1 Ultra Dual (64GB)";340
+"BlackView Omega Pro (16GB)";249.95
+"Asus ZenFone 4 Selfie (ZD553KL)";320
+"MaxCom Smart MS514 FS (8GB)";89.99
+"OnePlus 5T (6GB/64GB)";553.49
+"Doogee X7 Pro (16GB)";125
+"Samsung Galaxy S9+ (64GB)";978.6
+"Gigaset GS270 (16GB)";172.36
+"LeEco Le Max 2 (32GB)";322.86
+"Leagoo M8 Pro (16GB)";137
+"Lenovo Moto Z Dual (32GB)";280.95
+"Xiaomi Redmi 4x (32GB)";115
+"Huawei P10 Lite Dual (3GB/32GB)";200
+"Xiaomi Redmi Note 5A Prime (64GB)";179.95
+"Archos 55 Helium (16GB)";122.55
+"Alcatel OneTouch 1052G";18.7
+"BlackView BV7000 (16GB)";179
+"Wiko U Pulse (32GB)";190.96
+"Asus Zenfone 3 Laser (32GB) (ZC551KL)";279
+"Sony Xperia XA2";345
+"LG Magna (8GB)";120
+"Xiaomi Mi Note 3 (128GB)";524.95
+"MaxCom MS453 (8GB)";59.99
+"Apple iPhone 8 Plus (256GB)";987.2
+"Samsung Galaxy J3 (2017) Duos";128.98
+"Sony Xperia Z5 Premium Dual (32GB)";490
+"Apple iPhone 6 (64GB)";718
+"ZTE Blade A512 Single (16GB)";149
+"Leagoo M5 (16GB)";72
+"Lenovo Moto G5 Dual (3GB/16GB)";159.95
+"Coolpad Note 5 Lite (16GB)";205
+"Ken Xin Da R7S (16GB)";156
+"Apple iPhone 7 (32GB)";513
+"Meizu Pro 6s (64GB)";325
+"Ulefone S8 Pro (16GB)";86.84
+"Huawei Mate 10 Lite (64GB)";266.55
+"Razer Phone";879
+"Google Pixel XL (32GB)";544.85
+"Alcatel 10.50D";15.85
+"Energizer Energy 100";44
+"eStar Q20";67.55
+"Denver WAS-18110M";32.99
+"HTC U Play Dual (32GB)";198.11
+"Apple iPhone 6s Plus (128GB)";686
+"Samsung Galaxy J5 Duos 4G (8GB)";149.9
+"Denver SDQ-50002G (16GB)";109
+"Alcatel 2051";47.8
+"Asus ZenFone Zoom (64GB)";278
+"MLS Diamond 4G Fingerprint C8 Dual (32GB)";178.99
+"Samsung Galaxy Grand Prime Plus (8GB)";109
+"Meizu MX6 (3GB/32GB)";209
+"Blu Studio One (16GB)";129
+"Meizu M3 Note (16GB)";159
+"Hisense H11 Infinity (32GB)";249.99
+"Alcatel OneTouch 1035D";22.85
+"Huawei P10 Lite (4GB/32GB)";224.2
+"Lenovo A7700 (16GB)";167
+"Xiaomi Redmi Note 3 (16GB)";137
+"Ken Xin Da Ken J7 (8GB)";61
+"Elephone C1X (16GB)";104
+"Alcatel U5 HD Premium (16GB)";93.75
+"Meizu M6 Note (16GB)";174.8
+"Alcatel U5 Dual (8GB)";73.9
+"MLS iQTalk Diamond Dual (16GB)";298
+"Vivo Y55 (16GB)";289
+"Wiko Sunny 2 Plus (8GB)";76
+"Alcatel OneTouch 1052D";18.9
+"Huawei Honor 7 Lite (16GB)";130.15
+"Alcatel Shine Lite (16GB)";129
+"Oukitel U13 (64GB)";275
+"Nokia 150 Dual";31.2
+"Samsung Galaxy S6 Edge (32GB)";419
+"Archos 50 Saphir (16GB)";228.16
+"Alcatel OneTouch 1016G";14.75
+"Meizu U20 (16GB)";159
+"Lenovo Zuk Z2 Pro (128GB)";350
+"Ulefone Power (16GB)";165
+"Crypto Creev Mark V (16GB)";169
+"Sony Xperia XA1 Plus Dual (3GB/32GB)";274.99
+"Huawei Nova Plus Dual (32GB)";375
+"MaxCom Smart MS553 LTE (16GB)";129.99
+"MLS Flame 4G 2018 (8GB)";92.73
+"Apple iPhone 8 Plus (64GB)";753
+"ZTE Blade L7 (8GB)";67.89
+"Huawei Honor 6a Fingerprint (16GB)";164.92
+"Lenovo ZUK Edge (64GB)";470
+"Samsung Galaxy A5 2017 (32GB)";225
+"Asus ZenFone 3 Deluxe (32GB) (ZS550KL)";449
+"Lenovo Moto C Dual (16GB)";77.8
+"HTC U Ultra Dual (64GB)";354.45
+"LG K5 Dual (8GB)";88.04
+"Zopo Z5000 (64GB)";211
+"Alcatel A5 Led Dual (3GB/32GB)";210
+"MLS iQTalk Diamond 4G 5'' Dual (32GB)";385
+"VKworld Z3310";29.9
+"Samsung Galaxy J5 Prime (16GB)";175
+"Apple iPhone SE (128GB)";414.45
+"Lenovo Moto Z (64GB)";520
+"Nokia 6 Dual (3GB/32GB)";203
+"Apple iPhone 6 (16GB)";372.5
+"Sony Xperia XZ1 (64GB)";399
+"Lenovo Moto C Plus Dual (2GB/16GB)";109
+"Samsung Galaxy A8 (2018) (32GB)";363
+"Huawei Honor 5X (16GB)";173
+"LeEco Le 2 Pro (32GB)";209.99
+"Samsung Galaxy A8 Plus (2018)";550
+"Cubot H1 (16GB)";169
+"Blackberry Priv (32GB)";275
+"Meizu M5 Note (64GB)";284
+"Nokia 3310 (2017) 3G Dual";47.9
+"Nokia 216 Dual";35.9
+"Huawei Y6 Pro (16GB)";135
+"Samsung Galaxy A3 2016 (16GB)";250
+"Essential PH-1";699
+"Xiaomi Redmi 5 (16GB)";123
+"Xiaomi Redmi Note 4 (Snapdragon) (3GB/32GB)";126.8
+"Lenovo Moto C Plus (1GB/16GB)";108.26
+"Sony Xperia XA1 Dual (32GB)";215
+"Mediacom Easy Phone Facile Premium";55
+"Google Pixel 2 (64GB)";732.95
+"ZTE Blade L3 (8GB)";71.99
+"Nokia 222 Single";38.46
+"Xiaomi Mi A1 (64GB)";170.91
+"BlackView BV8000 Pro (64GB)";269.99
+"CAT S40 (16GB)";324.88
+"Apple iPhone 6s (32GB)";439.9
+"Xiaomi Mi Note 2 (64GB)";399.9
+"Leagoo S8 (32GB)";162
+"Ulefone Power 2";179
+"Wiko Harry (16GB)";121.88
+"Nokia 105 (2017)";23.75
+"Sony Xperia XA1 (32GB)";209.8
+"Sony Xperia XA1 Ultra (32GB)";305.55
+"MLS Diamond 4G Fingerprint TS Dual (32GB)";199
+"Huawei Honor 6a (16GB)";125.65
+"Samsung Galaxy A8 Dual (2018) (32GB)";360
+"Lenovo Moto G5s Plus Dual (4GB/32GB)";238.95
+"Hisense F23 (16GB)";129.99
+"Samsung Galaxy A5 Duos 2017 (32GB)";293
+"Xiaomi Redmi Note 4 (MediaTek) (3GB/32GB)";147.99
+"Huawei Honor V8 (32GB)";549.9
+"Lenovo Vibe K5 (16GB)";106.25
+"HTC U11 Dual (6GB/128GB)";740
+"HTC Desire 728G (16GB)";144
+"MLS iQTalk Flame (8GB)";89.9
+"Huawei Honor 7X";255.9
+"Alcatel OneTouch 1016D";16.9
+"Samsung Galaxy S9+ Dual (64GB)";850
+"BlackView A5 (8GB)";69
+"LG G6 Dual (64GB)";434.28
+"Xiaomi Redmi Note 5a Prime (32GB)";109.97
+"MaxCom MM136";29.99
+"Apple iPhone 6s Plus (32GB)";547
+"Apple iPhone 6s Plus (64GB)";750
+"LG Nexus 5X (32GB)";259.9
+"Samsung Galaxy S7 Edge Duos (128GB)";607
+"LG K4 (8GB)";83.71
+"Huawei P10 Lite Dual (4GB/64GB)";275
+"Samsung Galaxy A3 2017 (16GB)";169.77
+"Oukitel U20 Plus (16GB)";149
+"Archos 55 Platinum (8GB)";55.5
+"Xiaomi Mi Max 2 (32GB)";229
+"Google Pixel (32GB)";464
+"HTC Desire 620G Dual (8GB)";140
+"Wiko Lenny 3 (16GB)";107.86
+"Lenovo Vibe P1m (16GB)";189
+"Blackberry Motion";497
+"FlameFox Easy2";16.89
+"Ulefone S7 (16GB)";63.99
+"Sony Xperia M5 Dual (16GB)";205
+"Google Pixel (128GB)";596
+"Xiaomi Redmi Note 4X (MediaTek) (32GB)";176
+"Alcatel U5 Premium (16GB)";67.9
+"Apple iPhone 7 Plus (256GB)";849.75
+"HTC One A9 (32GB)";320
+"Vernee Thor E (16GB)";154
+"Apple iPhone 8 (256GB)";795
+"Asus ZenFone AR (ZS571KL)";869
+"eStar A18";17.47
+"Samsung Galaxy S8+ (64GB)";560
+"Nokia 3310 (2017) Dual";44.5
+"Ken Xin Da R7 (8GB)";76.85
+"Xiaomi Mi 5s Plus (64GB)";298.85
+"Lenovo Moto C (16GB)";79
+"Asus Zenfone Go ZB552KL (16GB)";155.29
+"Xiaomi Mi 5X (64GB)";259
+"Samsung Galaxy J1 Mini Prime 4G (8GB)";70
+"OnePlus 3T (64GB)";424.9
+"LG X Screen (16GB)";140.7
+"LG K4 (2017) (8GB)";111.85
+"MLS Easy S (8GB)";73.11
+"Huawei Mate 9 Dual (128GB)";1020
+"Doogee Y6 (16GB)";110
+"Nokia 105";24.8
+"MaxCom Strong MM920";69.99
+"Sony Xperia Z5 (32GB)";261.52
+"LG X Power 2 (2GB/16GB)";149.99
+"LeEco Le 2 (32GB)";229.81
+"LG K10 (2017) (16GB) Fingerprint";145.99
+"Samsung Galaxy J7 Dual 3G (16GB)";218
+"Huawei Y5 (2017)";179
+"ZTE R340E";57.55
+"HTC 10 (32GB)";341.15
+"Lenovo Moto G5S (32GB)";219
+"Samsung Galaxy Note 8 Dual (64GB)";709.97
+"Meizu Pro 6 (32GB)";399
+"FlameFox Simple1";23.52
+"Kodak Ektra";199
+"Xiaomi Mi 5s (128GB)";350
+"Ulefone Power 3 (64GB)";252.2
+"Samsung Galaxy J2 Duos (8GB)";138
+"Sony Xperia XA1 Ultra Dual (32GB)";298
+"General Mobile GM 5 Dual (16GB)";109.8
+"Huawei Mate 9 Dual (64GB)";550
+"Ulefone Be Pro 2 (16GB)";135.72
+"Google Pixel 2 XL (128GB)";1066.63
+"HTC One A9s (32GB)";158
+"Xiaomi Mi Note 2 (128GB)";486
+"MLS Ruby 4G (16GB)";159
+"THL 2015A (16GB)";99
+"MLS iQTalk Onyx Dual (16GB)";220.78
+"Doogee Galicia X5 Pro (16GB)";99
+"MaxCom MM462";34.99
+"Sony Xperia XZ Premium";558.99
+"LG Q6+";336
+"Lenovo Vibe K5 Note (32GB)";169
+"Xiaomi Redmi Note 4X (MediaTek) (64GB)";170
+"Xiaomi Mi 6 (128GB)";499.43
+"Apple iPhone 6s (64GB)";579.95
+"Sony Xperia XZ Premium Dual";580
+"Meizu M5 (16GB)";119.2
+"Oukitel K6000 Pro (32GB)";176.01
+"Huawei P10 Lite Dual (4GB/32GB)";223.97
+"Huawei Mate 8 Dual (32GB)";552
+"Xiaomi Mi Mix (256GB)";480.31
+"Vivo X9 (64GB)";439
+"Huawei Mate 9 (64GB)";547
+"Apple iPhone X (64GB)";950
+"MaxCom MS514 (8GB)";89.99
+"Alcatel A5 (16GB)";118.99
+"Huawei Nova 2 Plus (128GB)";408
+"Mediacom PhonePad Duo G7 (16GB)";99
+"Meizu M6 (32GB)";154.9
+"Elephone P8 (2017) (64GB)";234.71
+"Sony Xperia L2";250.7
+"Huawei Nova (32GB)";244.9
+"Meizu M2 (16GB)";200
+"Apple iPhone 8 (64GB)";644
+"Crypto Creev Mark V (16GB) Flip Cover & Tempered Glass Bundle";199
+"HTC U Ultra (64GB)";290
+"Huawei P9 Lite Mini Dual (16GB)";127.4
+"Alcatel OneTouch Pixi 4 (5) (8GB)";80.5
+"CAT S31 Dual (16GB)";278
+"BlackView BV9000 (64GB)";278
+"MLS Color Fingerprint 4G (16GB)";124.4
+"Huawei P9 Dual (32GB)";304.75
+"Huawei Honor 8 (32GB)";241.75
+"Lenovo Moto G5 Dual (2GB/16GB)";131.75
+"Apple iPhone 7 (128GB)";583
+"Go Clever Quantum 470 Pro Rugged (16GB)";199
+"Asus ZenFone 3 Ultra (64GB)";585
+"Archos 45b Neon (8GB)";71.3
+"Nokia 105 (2017) Dual";19.69
+"Ken Xin Da R6 (16GB)";139
+"Meizu Pro 6 Plus (64GB)";389
+"Xiaomi Mi 5X (32GB)";290
+"Google Pixel 2 (128GB)";798.91
+"eStar A24";23.9
+"Meizu M5 (32GB)";144.91
+"MaxCom Classic MM330";69.99
+"MaxCom Strong MM916";69.99
+"Xiaomi Redmi 5A (16GB)";79.3
+"HTC Desire 825 (16GB)";154
+"Sony Xperia XA1 Plus Dual (4GB/32GB)";285
+"Asus ZenFone 3 Max (ZC553KL) (32GB)";181
+"Oukitel U8 (16GB)";159
+"LG G Flex 2 (16GB)";177.9
+"Apple iPhone 6s (128GB)";630
+"Samsung Galaxy Trend 2 Lite (4GB)";89.28
+"Meizu M6 Note (32GB)";199.9
+"Alcatel 2051D";49.9
+"Xiaomi Mi Mix 2 (64GB)";436
+"Cubot X12 (8GB)";116
+"LG V30";657.15
+"Mediacom PhonePad Duo X532L Lite (16GB)";129
+"Xiaomi Redmi Note 4X (Snapdragon) (16GB)";135
+"Oukitel U22 (16GB)";81
+"Go Clever Quantum 4 550 (8GB)";105.73
+"Alcatel OneTouch Pixi 4 (6) 4G (16GB)";214
+"Oukitel U7 Plus (16GB)";87
+"Nokia 2";98
+"Samsung Galaxy J5 (2017) Duos";152.89
+"Go Clever Quantum 3 500 (8GB)";94
+"Noa Sprint 4G (16GB)";114.9
+"Xiaomi Mi Mix 2 Special Edition";653
+"Sony Xperia XA Dual (16GB)";165
+"NO.1 M3 (16GB)";185
+"eStar T20";53.1
+"Huawei Honor 9 Lite";229.1
+"Xiaomi Redmi Note 4X (Mediatek) (16GB)";160.5
+"MLS iQTalk Verse 4G (8GB)";79.99
+"MLS iQTalk Titan 4G (16GB)";114.9
+"ZTE Blade A6 (32GB)";218.24
+"Vivo X9 Plus (64GB)";483
+"Samsung Galaxy S9+ Dual (256GB)";1143.8
+"Xiaomi Redmi 5 (3GB/32GB)";139.75
+"TP-LINK Neffos X1Max (64GB)";188
+"RugGear RG730 (16GB)";419
+"Motorola Moto Z2 Force (4GB/64GB)";634.7
+"Sony Xperia XA2 Ultra Dual (64GB)";499.8
+"LG G4 (32GB)";226
+"HTC One X10 (32GB)";273
+"General Mobile GM 5 (16GB)";139.9
+"LeEco LeTV Le S3 (3GB/32GB)";184.9
+"Sony Xperia X Dual (64GB)";298
+"Elephone P9000E (32GB)";199
+"MLS iQTalk Color 5'' Dual 4G (16GB)";124.6
+"Blu Vivo 5R (32GB)";274
+"Ulefone Mix (64GB)";158
+"Asus Zenfone 4 Max Plus ZC550TL (32GB)";249
+"Xiaomi Mi 6 Ceramic (128GB)";543.95
+"Alcatel OneTouch Go Play (8GB)";145
+"Xiaomi Mi Max 2 (64GB)";235.9
+"Asus ZenFone 3 (64GB)";377
+"Meizu M3 Note (32GB)";238
+"Alcatel OneTouch Pixi 4 (5) 3G (8GB)";71.99
+"Samsung Galaxy Note 8 Dual (128GB)";1075
+"LG K3 Dual (8GB)";109.9
+"Leagoo KIICAA Power (16GB)";74.9
+"Lenovo Moto E4 Plus (16GB)";139
+"Alcatel A3 XL Dual";155
+"HTC U11 Dual (4GB/64GB)";495.85
+"LG G6 (32GB)";342
+"Alcatel OneTouch Pop 4 (8GB)";77.4
+"Cubot X18 (32GB)";116
+"Elephone R9 (3GB/32GB)";218.82
+"HTC One M8s (16GB)";197
+"Sharp Aquos S2 (64GB)";446
+"Asus Zenfone 3S Max (ZC521TL)";199
+"MaxCom MM720";44.99
+"Samsung Galaxy S7 Edge Duos (32GB)";479
+"HTC One A9 (16GB)";289
+"Ulefone Tiger 4G (16GB)";99
+"Huawei Nova Dual (32GB)";278
+"Xiaomi Mi Max 2 (128GB)";329.95
+"Lenovo Moto G (3rd Gen) (8GB)";132.68
+"Alcatel Idol 5 (16GB)";128.9
+"Doogee Nova (8GB)";110
+"HomTom HT10 (32GB)";285
+"Samsung Galaxy Note 8 Dual (256GB)";1175
+"Huawei P8 Lite (16GB)";177.99
+"Lenovo A6600 Plus (16GB)";184
+"ZTE Blade A612 (2GB/16GB)";111.2
+"Oukitel C4 (8GB)";94.86
+"Nokia 6 (2018) (64GB)";365
+"Samsung Galaxy S8 Dual (64GB)";619
+"Samsung Galaxy S6 (32GB)";370
+"ZTE Blade L5 Plus (8GB)";86.81
+"Ulefone Armor (32GB)";182.44
+"TP-LINK Neffos Y5s (16GB)";98.9
+"Xiaomi Redmi 4x (16GB)";118.35
+"Meizu M5 Note (16GB)";139
+"Samsung Galaxy C9 Pro (64GB)";480
+"Elephone C1Max (32GB)";145
+"LG K8 Dual (2017) (16GB)";110.7
+"Hisense F22 (8GB)";109.99
+"Meizu MX5e (16GB)";246.18
+"BlackView A7 Pro (16GB)";78.99
+"HTC Desire 628 Dual (32GB)";175.01
+"TP-LINK Neffos X1Max (32GB)";148.9
+"Nokia 3310 (2017)";47
+"Huawei Mate 10 Pro Dual (128GB)";690
+"Huawei Honor 7 Lite Fingerprint (16GB)";158.95
+"Huawei Honor 6C Pro (32GB)";188.69
+"Sony Xperia L1 Dual (16GB)";149.95
+"Asus ZenFone 3 Max (32GB) (ZC520TL)";139.5
+"LG G5 Dual (32GB)";537
+"BlackView BV6000s (16GB)";168
+"Crypto Creev Mark V Prime (8GB)";96.39
+"TP-LINK Neffos C7 (16GB)";126
+"ZTE Nubia Z9 Mini (16GB)";240
+"Lenovo Moto G5 Plus (3GB/32GB)";245
+"Huawei Mate 10 Lite Dual (64GB)";273
+"Blackberry Porsche Design P'9983 (64GB)";570
+"Oukitel K6000 Plus (64GB)";227
+"Blackberry Leap (16GB)";105
+"OnePlus 3T (128GB)";480
+"Meizu U10 (16GB)";147
+"Elephone P8 Mini (64GB)";145.8
+"Olympia Classic Mini";41.45
+"Sony Xperia Z5 Dual (32GB)";268.05
+"HTC One X9 (32GB)";285
+"MaxCom Strong MM899";48.9
+"Cubot Max (32GB)";120.95
+"Blu Z3 Music";19.9
+"HTC One M9+ (32GB)";369
+"Wiko Tommy (8GB)";109.9
+"ZTE Blade V8 Lite (16GB)";199.9
+"Alcatel OneTouch Pop UP (16GB)";135.8
+"MaxCom MM824";59.99
+"Lenovo Moto E4 Plus Dual (16GB)";125.05
+"Xiaomi Mi 6 (64GB)";379.8
+"ZTE V580 (16GB)";177.32
+"Oukitel C8 3G (16GB)";88.98
+"Nokia 5 Dual (2GB/16GB)";156.4
+"MaxCom Strong MM901";59.99
+"Lenovo Moto C (3G) (8GB)";68.99
+"Apple iPhone SE (64GB)";366.55
+"Coolpad Porto S (8GB)";92
+"Alcatel U5 3G Dual (8GB)";59.49
+"Lenovo Moto E (3rd Gen) (8GB)";88.9
+"Huawei P Smart Dual (32GB)";232
+"Alcatel Pop 4 Plus (16GB)";162
+"Samsung Galaxy J7 (2017) Duos";194.92
+"LG K10 (16GB)";137.47
+"Huawei Honor 9 (4GB/64GB)";350
+"Lenovo Moto G4 Play (16GB)";99
+"Huawei Honor 6X (4GB/64GB)";233.95
+"Nokia 6 (3GB/32GB)";198.85
+"MaxCom MM428";24.99
+"Meizu M5c (16GB)";87.07
+"Elari CardPhone";56.39
+"Mediacom Phonepad Duo X530U (16GB)";199
+"Huawei P9 Plus Dual (64GB)";390
+"TP-LINK Neffos C5 Max (16GB)";129
+"HTC U11 (4GB/64GB)";510.25
+"Blu Grand X (8GB)";83.16
+"Elephone A8 (8GB)";61
+"HomTom HT3 Pro (16GB)";98
+"BlackView BV4000 Pro (16GB)";136.5
+"Huawei Y5 II Dual (8GB)";114
+"Meizu Pro 6 Plus (128GB)";549
+"Huawei Mate S (32GB)";301
+"Nokia 216";44.85
+"Sony Xperia XA2 Ultra (32GB)";425
+"Meizu M1 Metal (16GB)";130
+"Samsung Galaxy S6 Edge (64GB)";399
+"Sony Xperia X Compact (32GB)";273
+"Samsung Galaxy A3 Duos 2017 (16GB)";227
+"LeEco Cool1 4GB Dual (32GB)";199
+"Meizu E2 (32GB)";269
+"MLS Fashion 8C 4G (16GB)";169
+"HTC One S9 (16GB)";194
+"Samsung Galaxy S6 (64GB)";394
+"Blackberry Passport";188.76
+"LG X Power (16GB)";132
+"MaxCom Maxton Classic M60";31.4
+"Cubot Cheetah 2 (32GB)";118.99
+"Huawei P9 Lite Dual (2GB/16GB)";178.8
+"Huawei Honor 6X (3GB/32GB)";186.25
+"Xiaomi Mi 5c (64GB)";244.9
+"Archos 55b (16GB)";99
+"Sony Xperia XZs (32GB)";428.93
+"HTC U11 Plus (128GB)";822.25
+"eStar A28";25.99
+"Cagabi One (8GB)";79
+"ZTE Blade V7 Lite (8GB)";109.9
+"Powertech Sentry";33
+"Meizu M3s (32GB)";167
+"Energy Sistem Phone Pro 4G (16GB)";219.47
+"CAT S30 (8GB)";153.9
+"HTC U Play (32GB)";205.45
+"Alcatel A3 Dual (16GB)";135
+"Lenovo K6 Dual (16GB)";120.8
+"Lenovo Z2 Pro (64GB)";445
+"Xiaomi Redmi Note 4X (Snapdragon) (32GB)";139.25
+"OnePlus 3 (64GB)";395
+"Huawei P10 Plus (6GB/128GB)";625
+"Asus ZenFone 4 Pro (ZS551KL)";730
+"Hisense C20 (32GB)";169.99
+"HomTom HT17 Pro (16GB)";129
+"Samsung Galaxy J3 Pro Dual (16GB)";220
+"Sony Xperia XZ (32GB)";328.8
+"Vernee Thor (16GB)";129
+"LeEco LeTV Le S3 (4GB/64GB)";219.89
+"Nokia 5";150
+"Mediacom PhonePad Duo S6p (32GB)";160
+"Huawei Mate 10 Pro (128GB)";699.75
+"HTC One M9 (32GB)";242.5
+"Samsung Galaxy J7 2016 (16GB)";219
+"Ulefone Gemini (32GB)";175
+"Xiaomi Redmi 4a (16GB)";81.35
+"FlameFox Flip1";28.78
+"Samsung Galaxy J3 Duos 2016 (8GB)";96.58
+"Cubot Note Plus (32GB)";107.95
+"MLS MX 4G";186.25
+"ZTE Blade V8 (32GB)";207.08
+"Asus ZenFone 3 Deluxe (64GB) (ZS550KL)";405
+"TP-LINK Neffos X1 Lite (16GB)";107
+"Cubot H3 (32GB)";118
+"Meizu M3 Max (64GB)";255
+"Cubot Hafury Umax (16GB)";98.99
+"Huawei P9 Lite Dual (2017) (16GB)";147
+"Samsung Galaxy S7 (32GB)";350.97
+"Xiaomi Redmi Note 4 (Snapdragon) (4GB/64GB)";159.84
+"Blackberry KEYone";459.89
+"MaxCom Maxton Classic M55";21.95
+"Nokia 6 Dual (4GB/64GB)";315
+"Samsung Galaxy J2 Prime (8GB)";110
+"Xiaomi Redmi 4x (64GB)";219.95
+"Hisense F30 Pureshot Lite (16GB)";129.99
+"ZTE Nubia Z17 mini (6GB/64GB)";239.95
+"Nokia 150";31.3
+"Mediacom Easy Phone Facile Duo";59
+"Samsung Galaxy S8 (64GB)";488.87
+"Samsung Galaxy J5 Duos 2016 (16GB)";160
+"LG G6+ (128GB)";525
+"MLS Color mini 4G Dual (16GB)";85
+"Alcatel U5 HD Dual (8GB)";84.98
+"Samsung Galaxy J2 (2016) (8GB)";209
+"Lenovo A6010 (8GB)";143
+"Apple iPhone 7 (256GB)";744
+"Doogee S60 (64GB)";379
+"CAT S41 (32GB)";376
+"Sony Xperia XA Ultra Dual (16GB)";324.9
+"LG X Cam (16GB)";250
+"Nokia 130 (2017)";24.89
+"Oppo F1s Dual (3GB/32GB)";383
+"Huawei P9 Lite (2017) (16GB)";156
+"Ulefone Vienna (32GB)";167
+"Meizu MX5e (32GB)";274.36
+"Samsung Galaxy A8 Dual (2018) (64GB)";479
+"Oukitel U15S (32GB)";192
+"Oukitel U15 Pro (32GB)";130
+"Asus ZenFone 3 Zoom (ZE553KL) (64GB)";400
+"Huawei P10 Lite (3GB/32GB)";208
+"Apple iPhone 5C (8GB)";265
+"Wiko Lenny 4 Plus (16GB)";99.99
+"Sony Xperia XZ Dual (64GB)";412
+"OnePlus X (16GB)";390
+"Huawei Y6 II Compact (16GB)";143.84
+"Blackberry DTEK60 (32GB)";329
+"Mediacom PhonePad Duo G515 (8GB)";99
+"Asus Zenfone 4 Max ZC520KL (32GB)";324.09
+"Sony Xperia XA Ultra (16GB)";280
+"HTC Desire 825 Dual (16GB)";154
+"Go Clever Quantum 2 500 N (8GB)";79
+"Samsung Galaxy A8 Duos (16GB)";290
+"ZTE Blade A452 (8GB)";99.9
+"Hisense F20 (8GB)";99.99
+"Doogee Valencia 2 Y100 Pro (16GB)";149
+"Sony Xperia X Performance Dual (64GB)";368
+"ZTE Nubia Z9 Max (3GB/16GB)";327
+"Gigaset GS160 (16GB)";110.42
+"Cubot Magic (16GB)";93
+"MLS iQTalk Color 5.5'' Dual 4G (16GB)";168
+"BlackView BV6000 (32GB)";199.97
+"LG G6 Dual (32GB)";428
+"Leagoo Z5 4G (8GB)";65
+"Meizu M3X (32GB)";221
+"MaxCom MM237 Dual";44.99
+"Xiaomi Redmi 5 Plus (3GB/32GB)";148.7
+"Blackberry KEYone Black Edition";625
+"MaxCom Strong MM910";69.99
+"Meizu M5 Note (32GB)";166.8
+"Coolpad Modena (8GB)";95.9
+"Wiko View Prime (64GB)";270.83
+"Crypto Creev Mark V Plus (16GB)";119
+"Ulefone Metal Lite (16GB)";115
+"BlackView BV4000 (8GB)";125
+"Lenovo Vibe X3 (32GB)";548
+"Meizu M3 (32GB)";159
+"Nokia 130 (2017) Dual";22.8
+"ZTE Blade L110 (8GB)";59
+"Ulefone T1 (64GB)";252
+"Apple iPhone 6s (16GB)";431
+"Samsung Galaxy J7 Pro (32GB)";289
+"Oukitel C8 4G (16GB)";90
+"Meizu M3E (32GB)";175
+"Apple iPhone 6 Plus (16GB)";378
+"MaxCom MM715BB & <c2><f1><e1><f7><e9><fc><eb><e9> SOS";89.99
+"Lenovo Moto E4 (16GB)";104.98
+"Doogee X6 (8GB)";95
+"MLS Alu 3G (8GB)";125
+"ZTE Axon 7 (64GB)";399.99
+"CAT S40 Dual (16GB)";275
+"Blu Joy";49.89
+"ZTE Blade V7 (16GB)";184
+"ZTE Nubia M2 (64GB)";229.95
+"Lenovo Moto M";277
+"MLS Top-S 4G (8GB)";75.84
+"Samsung Galaxy J5 2016 (16GB)";189.9
+"Meizu MX6 (4GB/32GB)";230
+"ZTE Blade V8 Mini (16GB)";176.08
+"LG K4 Dual (2017) (8GB)";90
+"Huawei Nova Smart (16GB)";135.3
+"Vivo Y66 (32GB)";221
+"CAT S60 (32GB)";497
+"Xiaomi Mi Mix (128 GB)";456
+"Lenovo K6 Power (16GB)";173
+"Lenovo C2 Power (16GB)";99.9
+"Cubot X16 S (16GB)";137.4
+"Alcatel A2 XL (8GB)";94
+"Huawei Honor 6X (4GB/32GB)";252.19
+"Xiaomi Redmi Note 4X (Snapdragon) (64GB)";177.8
+"Apple iPhone SE (32GB)";270
+"Geotel A1 (8GB)";127
+"MaxCom MM143";39.99
+"LG K5 (8GB)";82.99
+"Ulefone Mix 2 (16GB)";115.3
+"Huawei Y7 Prime (32GB)";253
+"Ken Xin Da Ken X5 (16GB)";103.78
+"Samsung Galaxy A7 Duos 2017 (32GB)";338
+"Asus ZenFone 2 Laser (16GB) (ZE550KL)";210
+"Oukitel K10000 Pro (32GB)";239
+"Meizu Pro 7 (64GB)";323.9
+"MLS Alu 5.5 3G (8GB)";103.95
+"Samsung Galaxy J3 2016 (8GB)";96
+"TP-LINK Neffos C5L (8GB)";75.76
+"Samsung Galaxy J7 Prime Dual (16GB)";200
+"Blu Tank 4";23.76
+"Sony Xperia Z3+ Dual (32GB)";312
+"ZTE Blade V6 (16GB)";155
+"Alcatel 2008";35.75
+"Ulefone U008 Pro (16GB)";79.05
+"Meizu M5s (16GB)";124.9
+"Nokia 105 Dual";24.8
+"TP-LINK Neffos Y5L";59.9
+"Meizu M3s (16GB)";142
+"Powertech Sentry II";32.49
+"Vivo X20 (64GB)";465
+"LG G4 Dual (32GB)";217
+"Meizu M3X (64GB)";359
+"Lenovo Moto Z2 Play (4GB/64GB)";294.9
+"Google Pixel XL (128GB)";575
+"Mediacom PhonePad DUO B500 (16GB)";168
+"Elephone S8 (64GB)";289
+"Billow S500HD (8GB)";133.7
+"Xiaomi Redmi 4a (32GB)";102
+"Huawei P10 Dual (64GB)";414.5
+"Energy Sistem Phone Pro 3 (32GB)";299.52
+"Archos 55 Diamond Selfie (64GB)";313.95
+"LG V30+";759.9
+"MaxCom MM128";22.99
+"CAT B25";65.1
+"Leagoo M8 (16GB)";125
+"Panasonic EZ240";44.99
+"Doogee X6 Pro (16GB)";95
+"Samsung Galaxy S9+ Dual (128GB)";1059.8
+"Alcatel OneTouch Idol 4 (16GB)";179.78
+"Apple iPhone SE (16GB)";268.99
+"Doogee BL5000 (64GB)";169
+"Samsung Galaxy A5 2016 (16GB)";278.8
+"ZTE Blade A612 (1GB/16GB)";148.14
+"ZTE Blade A520 (8GB)";96.64
+"Wiko View (3GB/16GB)";205
+"Elephone C1 (16GB)";128
+"Samsung Galaxy S6 (128GB)";621.52
+"Panasonic T35 (4GB)";73.9
+"Lenovo K6 Note Dual (32GB)";153.8
+"Vivo X7 (64GB)";470
+"MLS Slice 4G (16GB)";99
+"Hisense L675 (8GB)";89.99
+"Huawei Y6 Dual (2017) (16GB)";98.99
+"Alcatel U5 Fingerprint (16GB)";92.59
+"ZTE Blade A520 (16GB)";162.44
+"Huawei Honor View 10 (128GB)";500.23
+"Huawei P9 Plus (64GB)";367.9
+"ZTE Nubia Z17 mini (4GB/64GB)";219.95
+"Samsung Galaxy S8+ Dual (128GB)";965
+"HTC Desire 10 Lifestyle (32GB)";310
+"Huawei Y7 (16GB)";149
+"MLS F5 (16GB)";98.45
+"Asus ZenFone Go TV (32GB)";208
+"Oppo A57 (32GB)";342
+"Huawei Honor Y6II (16GB)";155
+"Oukitel K10000 (16GB)";184
+"Lenovo Moto G4 Dual (16GB)";131.85
+"LG K7 3G (8GB)";114.9
+"CAT B30";85.16
+"Huawei Honor 8 (64GB)";310
+"Asus ZenFone 4 (4GB/64GB) (ZE554KL)";400
+"Mediacom PhonePad Duo S7p (16GB)";148
+"Ulefone U007 (8GB)";88.99
+"Lenovo Moto Z2 Play (3GB/32GB)";395
+"MLS iQTalk Diamond Fingerprint 4G Dual (16GB)";226.85
+"MaxCom MM141";34.99
+"Blu R2 (16GB)";125.4
+"Lenovo K6 Note (32GB)";219
+"Huawei P Smart (32GB)";228.8
+"Apple iPhone X (256GB)";1125
+"MLS Spirit 8C (16GB)";169
+"Wiko Jerry (8GB)";91.12
+"Meizu M6 Note (64GB)";269
+"Sony Xperia XA1 Plus (4GB/32GB)";278.9
+"MLS Easy Flip (8GB)";122.3
+"Go Clever Quantum 3 550 Rugged (16GB)";239
+"Samsung Galaxy S9 (64GB)";855.95
+"Ulefone S8 (16GB)";79.4
+"LG K10 Dual (2017) (16GB) Fingerprint";131
+"Blu Z3";19.9
+"HTC One M9 Prime (16GB)";359
+"HTC Desire 728 (16GB)";268.9
+"Archos Diamond Gamma (32GB)";249
+"LG K10 Dual (2017) (16GB)";123.7
+"Lenovo Moto G5S Dual (32GB)";164
+"Xiaomi Mi 4s (16GB)";292.48
+"Alcatel OneTouch Idol 3 (8GB)";134.9
+"Nokia 3";129.8
