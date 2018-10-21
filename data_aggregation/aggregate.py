@@ -21,45 +21,45 @@ class DataFrameReader:
                  validate=None)
 
         self.df = df.dropna()
-        self.df.drop(columns=['retailer_product'])
-        self.df.drop(columns=['product name'])
+        self.df = self.df.drop(columns=['retailer_product'])
+        self.df = self.df.drop(columns=['product name'])
 
         self.retail_data = self.aggregate_retailer_data(['product', 'price', 'shop'])
 
-    def get_min_prices(self,df,item='Apple iPhone 7 Plus (32GB)'):
+    def get_min_prices(self,df,item='Apple iPhone 7 (32GB)'):
 
         df= df.loc[df['name']==item]
         min_prices = df.iloc[:, 2:30].values
         return min_prices[0]
 
-    def get_max_prices(self,df ,item='Apple iPhone 7 Plus (32GB)'):
+    def get_max_prices(self,df ,item='Apple iPhone 7 (32GB)'):
 
         df= df.loc[df['name']==item]
         min_prices = df.iloc[:, 30:58].values
         return min_prices[0]
 
-    def get_availability(self,df ,item='Apple iPhone 7 Plus (32GB)'):
+    def get_availability(self,df ,item='Apple iPhone 7 (32GB)'):
 
         df= df.loc[df['name']==item]
         availability = df.iloc[:, 58:86].values
         return availability[0]
 
-    def get_recommendations(self, df, item='Apple iPhone 7 Plus (32GB)'):
+    def get_recommendations(self, df, item='Apple iPhone 7 (32GB)'):
         df = df.loc[df['name'] == item]
-        recommmendation = df.iloc[:, -4:].values
+        recommmendation = df.iloc[:, -5:-1].values
         return recommmendation[0]
 
-    def get_stars(self, df, item='Apple iPhone 7 Plus (32GB)'):
+    def get_stars(self, df, item='Apple iPhone 7 (32GB)'):
         df = df.loc[df['name'] == item]
         stars = df.iloc[:, -7].values
         return stars[0]
 
-    def get_people_rating(self, df, item='Apple iPhone 7 Plus (32GB)'):
+    def get_people_rating(self, df, item='Apple iPhone 7 (32GB)'):
         df = df.loc[df['name'] == item]
         people_rating = df.iloc[:, -8].values
         return people_rating[0]
 
-    def create_device_data(self,  item='Apple iPhone 7 Plus (32GB)'):
+    def create_device_data(self,  item='Apple iPhone 7 (32GB)'):
         min_prices = self.get_min_prices(self.df, item)
         max_prices = self.get_max_prices(self.df, item)
         availability = self.get_availability(self.df, item,)
@@ -84,6 +84,8 @@ class DataFrameReader:
         dev = self.df.name.values
         df = df[df['product'].isin(dev)]
 
+        return df
+
     def select_items(self, item='Apple iPhone 7 Plus (32GB)'):
         df = self.retail_data.loc[self.retail_data['product'] == item]
         df = df.drop_duplicates('shop')
@@ -97,5 +99,5 @@ class DataFrameReader:
 
 if __name__ == "__main__":
     d = DataFrameReader()
-    print(d.get_device_list())
-    print(d.retail_data)
+
+    print(d.create_device_data())
