@@ -64,7 +64,7 @@ def get_device_and_neighbours():
 def get_device_list():
     if flask.request.method == "GET":
 
-        device_list = retailer.get_device_list()
+        device_list = device_data_reader.get_device_list()
         result = flask.jsonify(device_list.tolist())
 
     return result

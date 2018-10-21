@@ -6,16 +6,25 @@ class DataFrameReader:
     def __init__(self):
         hist_data = pd.read_csv('../data/device_hist_price.csv', sep='\t')
         recomm_data= pd.read_csv('../data/product_recommendation.csv', sep=';', encoding='ansi')
-        self.shop_data = pd.read_csv('../data/productvariation.csv', sep=';', encoding='ansi')
-        self.shop_data = self.aggregate(['product', 'price', 'shop'])
+        shop_data=  pd.read_csv('../data/retailer_data.csv', sep=';', encoding='ansi')
+        self.retail_data = pd.read_csv('../data/productvariation.csv', sep=';', encoding='ansi')
 
 
         df = pd.merge(hist_data, recomm_data, how='inner', on=None, left_on='name', right_on='product name',
                  left_index=False, right_index=False, sort=True,
                  suffixes=('_x', '_y'), copy=True, indicator=False,
                  validate=None)
+
+        df =pd.merge(df, shop_data, how='inner', on=None, left_on='name', right_on='retailer_product',
+                 left_index=False, right_index=False, sort=True,
+                 suffixes=('_x', '_y'), copy=True, indicator=False,
+                 validate=None)
+
         self.df = df.dropna()
+        self.df.drop(columns=['retailer_product'])
         self.df.drop(columns=['product name'])
+
+        self.retail_data = self.aggregate_retailer_data(['product', 'price', 'shop'])
 
     def get_min_prices(self,df,item='Apple iPhone 7 Plus (32GB)'):
 
@@ -69,10 +78,24 @@ class DataFrameReader:
         }
         return device_dict
 
-    def aggregate(self, columns=['product', 'price', 'shop']):
-        return pd.DataFrame(data=self.shop_data[columns])
+    def aggregate_retailer_data(self, columns=['product', 'price', 'shop']):
+
+        df = pd.DataFrame(data=self.retail_data[columns])
+        dev = self.df.name.values
+        df = df[df['product'].isin(dev)]
 
     def select_items(self, item='Apple iPhone 7 Plus (32GB)'):
-        df = self.shop_data.loc[self.shop_data['product'] == item]
+        df = self.retail_data.loc[self.retail_data['product'] == item]
         df = df.drop_duplicates('shop')
         return df
+
+    def get_device_list(self):
+        return self.df.name.values
+
+
+
+
+if __name__ == "__main__":
+    d = DataFrameReader()
+    print(d.get_device_list())
+    print(d.retail_data)
