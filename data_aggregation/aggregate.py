@@ -26,6 +26,9 @@ class DataFrameReader:
 
         self.retail_data = self.aggregate_retailer_data(['product', 'price', 'shop'])
 
+    def get_dataframe(self):
+        return self.df
+
     def get_min_prices(self,df,item='Apple iPhone 7 (32GB)'):
 
         df= df.loc[df['name']==item]
@@ -86,10 +89,16 @@ class DataFrameReader:
 
         return df
 
-    def select_items(self, item='Apple iPhone 7 Plus (32GB)'):
+    def select_shops(self, item='Apple iPhone 7 (32GB)'):
         df = self.retail_data.loc[self.retail_data['product'] == item]
         df = df.drop_duplicates('shop')
-        return df
+        shop_prices = {
+
+            'shop': df.shop.tolist(),
+            'prices':df.price.tolist()
+        }
+
+        return df, shop_prices
 
     def get_device_list(self):
         return self.df.name.values
@@ -100,4 +109,4 @@ class DataFrameReader:
 if __name__ == "__main__":
     d = DataFrameReader()
 
-    print(d.create_device_data())
+    print(d.select_items())

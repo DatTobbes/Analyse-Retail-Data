@@ -70,6 +70,17 @@ def get_device_list():
     return result
 
 
+@app.route("/getPricesInOtherShops", methods=["POST"])
+@cross_origin()
+def get_devices_from_other_shops():
+    if flask.request.method == "POST":
+
+        device= request.json.get('data')
+        _ ,shop_prices = device_data_reader.select_shops(device)
+        result = flask.jsonify(shop_prices)
+    return result
+
+
 if __name__ == "__main__":
     print("")
 
