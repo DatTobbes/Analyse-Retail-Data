@@ -5,8 +5,8 @@ request_dict = dict(source='test',
                     country='us',
                     topic='search_results',
                     key='gtin',
-                    values='00885909666966',
-                    token='WZWUKHCEMVYZRRANFDDNRMOPJOKJYMXGRPFHAGZXJEGMSXFXLCWQAUGZSBLHVWSE')
+                    values='',
+                    token=')
 
 url='https://api.priceapi.com/v2/'
 
