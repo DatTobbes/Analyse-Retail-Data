@@ -1,5 +1,5 @@
 import requests
-PRICEAPI_TOKEN = 'WZWUKHCEMVYZRRANFDDNRMOPJOKJYMXGRPFHAGZXJEGMSXFXLCWQAUGZSBLHVWSE'
+PRICEAPI_TOKEN = ''
 
 request_dict = dict(source='test',
                     country='us',
